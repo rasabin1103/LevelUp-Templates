@@ -1,4 +1,43 @@
 # LevelUp-Templates
+
+# English
+
+Official Technical Template Library for Developers, QA Engineers, and Architects
+🧱 LevelUp Templates — Technical Library
+
+Welcome to LevelUp Templates, the official technical resource library created by Level Up Digital Academy, designed to help any professional work with real-world standards in engineering, QA, automation, microservices, databases, CI/CD, and modern infrastructure.
+
+This repository brings together ready-to-use templates, architecture examples, and code foundations designed for:
+
+Manual QA
+
+QA Automation (UI / API)
+
+Microservices
+
+Databases
+
+CI/CD
+
+DevOps & Infrastructure
+
+Technical Documentation
+
+All organized in a clear, professional, and scalable structure.
+
+🎯 Repository Objective
+
+To provide a centralized catalog of reusable technical templates that serve as a solid foundation for:
+
+✔ Real projects
+✔ Training and learning
+✔ Professional documentation
+✔ Best practices
+✔ Starting systems from scratch
+
+Designed to help you build software with structure, clarity, and quality from the very first step.
+
+# Español
 Biblioteca oficial de plantillas técnicas para desarrolladores, QA y arquitectos
 
 🧱 LevelUp Templates — Technical Library
